@@ -1,2 +1,2 @@
-BASIC HTML CSS JAVASCRIPT
+One Page
 https://travel-space.000webhostapp.com/
