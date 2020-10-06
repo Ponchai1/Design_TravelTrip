@@ -1,1 +1,1 @@
-BASIC HTML CSS JAVASCRIPT
+Design page about TravelTrip one page
